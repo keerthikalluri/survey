@@ -67,7 +67,7 @@ npm start
 
 Start both frontend and backend servers.
 
-Open the frontend in your browser at http://localhost:3000.
+Open the frontend in your browser at http://localhost:5173.
 
 Fill out the survey form step by step.
 
